@@ -1,5 +1,5 @@
 ### Hi everyone, I'm Thushara Nesaratnam, a full-stack developer from Montreal, Canada 🇨🇦   👋
-[![Header]](https://github.com/ThusharaN2/ThusharaN2/blob/master/header.png)
+![Header](https://github.com/ThusharaN2/ThusharaN2/blob/master/header.png)
 
 
 

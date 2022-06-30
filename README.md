@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everyone, I'm Thushara Nesaratnam, a full-stack developer from Montreal, Canada 🇨🇦   👋
 
 <!--
 **ThusharaN2/ThusharaN2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

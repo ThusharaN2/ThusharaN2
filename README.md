@@ -1,6 +1,6 @@
 ![Header](https://github.com/ThusharaN2/ThusharaN2/blob/master/gifntext-gif.gif)
 
-## Hey there 👋, I'm Thushara Nesaratnam, a full-stack developer from Montreal, Canada 🇨🇦    
+## Hey there 👋, I'm Thushara Nesaratnam, a full-stack developer from Montreal 🇨🇦    
   
 
 <a href="https://github.com/ThusharaN2" target="_blank">

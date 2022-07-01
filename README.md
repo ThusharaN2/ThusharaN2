@@ -1,7 +1,6 @@
-### Hi everyone, I'm Thushara Nesaratnam, a full-stack developer from Montreal, Canada 🇨🇦   👋
 ![Header](https://github.com/ThusharaN2/ThusharaN2/blob/master/github-header-image%20(2).png)
 
-## Hey there 👋, I'm Thushara Nesaratnam!  
+## Hey there 👋, I'm Thushara Nesaratnam, a full-stack developer from Montreal, Canada 🇨🇦    
   
 
 <a href="https://github.com/ThusharaN2" target="_blank">

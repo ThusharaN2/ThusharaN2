@@ -1,4 +1,4 @@
-![Header](https://github.com/ThusharaN2/ThusharaN2/blob/master/github-header-image%20(2).png)
+![Header](https://github.com/ThusharaN2/ThusharaN2/blob/master/_26_aesethic-gif-wallpaper_130-dreamy-gifs-ideas-aesthetic-art-anime-scenery-aesthetic-anime%20(1).gif)
 
 ## Hey there 👋, I'm Thushara Nesaratnam, a full-stack developer from Montreal, Canada 🇨🇦    
   

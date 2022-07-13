@@ -31,16 +31,16 @@ I am constantly learning new technologies as well as refining my existing skills
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Collab||8](https://github.com/Culganosi/Collabor8)  
+- 🔭 I’m currently working on [Collab||8](https://github.com/Culganosi/Collabor8).
   
 
-- 🌱 I’m currently learning Python and Data Structures / Algorithms  
+- 🌱 I’m currently learning Python and Data Structures / Algorithms.
   
 
-- ⚡ My interests include badminton, baseball, boardgames, and hiking  
+- ⚡ My interests include badminton, baseball, boardgames, and hiking! 
   
 
-- ✈️ Click here to check out my [resume](https://resume.creddle.io/resume/98u00e0s9j)  
+- ✈️ Click here to check out my [resume](https://resume.creddle.io/resume/98u00e0s9j).
 
 
 </td><td valign="top" width="50%">

@@ -34,7 +34,7 @@ I am constantly learning new technologies as well as refining my existing skills
 - 🔭 I’m currently working on [Collab||8](https://github.com/Culganosi/Collabor8).
   
 
-- 🌱 I’m currently learning Python and Data Structures / Algorithms.
+- 🌱 I’m currently learning Data Structures / Algorithms.
   
 
 - ⚡ My interests include badminton, baseball, boardgames, and hiking! 

@@ -37,7 +37,7 @@ I am constantly learning new technologies as well as refining my existing skills
 - 🌱 I’m currently learning Python, Data Structures / Algorithms.
   
 
-- ⚡ My interests include badminton, baseball, boardgames, and hiking! 
+- ⚡ My interests include badminton, baseball, basketball, boardgames, and hiking! 
   
 
 - ✈️ Click here to check out my [resume](https://resume.creddle.io/resume/98u00e0s9j).
